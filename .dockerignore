@@ -1,0 +1,4 @@
+backend/files/clip_files/*
+frontend/node_modules
+.git
+.gitignore

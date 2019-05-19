@@ -1,0 +1,13 @@
+
+backend/backend
+backend/files/*
+backend/output.mp4
+
+frontend/node_modules
+config.json
+.vscode/
+*credentials.json
+*secrets.json
+
+
+

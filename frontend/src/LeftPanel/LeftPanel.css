@@ -1,0 +1,23 @@
+.defaultPanel {
+    width: 49%;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+  }
+
+.leftGame {
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.rightGame {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    cursor: pointer;
+}
+
+.activeGame {
+    border-color: rgb(0, 180, 206);
+    color: rgb(0, 180, 206);
+}
+

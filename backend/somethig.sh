@@ -1,0 +1,1 @@
+youtube-upload --title="Hello world" --description="Hello world" --category=Gaming --tags="VRChat, Daily, Highlights, Twitch, Juke, Virtual, Reality" --credentials-file --default-language="en"  files/juke_highlights_vid.mp4

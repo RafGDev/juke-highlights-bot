@@ -1,0 +1,41 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+checkValidServiceWorker	registerServiceWorker.js	/^function checkValidServiceWorker(swUrl) {$/;"	f
+const.defaultPanel	ClipPlayer/ClipPlayer.js	/^      defaultPanel: {$/;"	p
+registerValidSW	registerServiceWorker.js	/^function registerValidSW(swUrl) {$/;"	f
+state.concatButtonDisabled	App.js	/^      concatButtonDisabled: false,$/;"	p
+state.concatButtonDisabled	LeftPanel/LeftPanel.js	/^      concatButtonDisabled: false,$/;"	p
+state.concatInProgress	App.js	/^      concatInProgress: false,$/;"	p
+state.concatInProgress	LeftPanel/LeftPanel.js	/^      concatInProgress: false,$/;"	p
+state.currentGame	App.js	/^      currentGame: "Fortnite",$/;"	p
+state.currentGame	LeftPanel/LeftPanel.js	/^      currentGame: "Fortnite",$/;"	p
+state.currentIndex	App.js	/^      currentIndex: 0,$/;"	p
+state.currentIndex	ClipPlayer/ClipPlayer.js	/^      currentIndex: 0,$/;"	p
+state.customName	App.js	/^      customName: ""$/;"	p
+state.customTitle	App.js	/^      customTitle: "",$/;"	p
+state.customTitle	LeftPanel/LeftPanel.js	/^      customTitle: ""$/;"	p
+state.downloadButtonDisabled	App.js	/^      downloadButtonDisabled: false,$/;"	p
+state.downloadButtonDisabled	LeftPanel/LeftPanel.js	/^      downloadButtonDisabled: false,$/;"	p
+state.downloadInProgress	App.js	/^      downloadInProgress: false,$/;"	p
+state.downloadInProgress	LeftPanel/LeftPanel.js	/^      downloadInProgress: false,$/;"	p
+state.durationButtonDisabled	App.js	/^      durationButtonDisabled: false,$/;"	p
+state.durationButtonDisabled	LeftPanel/LeftPanel.js	/^      durationButtonDisabled: false,$/;"	p
+state.durationInProgress	App.js	/^      durationInProgress: false,$/;"	p
+state.durationInProgress	LeftPanel/LeftPanel.js	/^      durationInProgress: false,$/;"	p
+state.numOfVideos	App.js	/^      numOfVideos: "",$/;"	p
+state.open	App.js	/^      open: false,$/;"	p
+state.open	ClipPlayer/ClipPlayer.js	/^      open: false$/;"	p
+state.password	App.js	/^      password: "",$/;"	p
+state.uploadButtonDisabled	App.js	/^      uploadButtonDisabled: false,$/;"	p
+state.uploadButtonDisabled	LeftPanel/LeftPanel.js	/^      uploadButtonDisabled: false,$/;"	p
+state.uploadInProgress	App.js	/^      uploadInProgress: false,$/;"	p
+state.uploadInProgress	LeftPanel/LeftPanel.js	/^      uploadInProgress: false,$/;"	p
+state.username	App.js	/^      username: "",$/;"	p
+state.vidDuration	App.js	/^      vidDuration: "",$/;"	p
+state.vidDuration	LeftPanel/LeftPanel.js	/^      vidDuration: "",$/;"	p
+state.vidExists	App.js	/^      vidExists: false,$/;"	p
+state.videos	App.js	/^      videos: null,$/;"	p

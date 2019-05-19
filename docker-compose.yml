@@ -1,0 +1,23 @@
+version: "2"
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    command: ./backend_linux 
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./backend/:/backend
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    command: serve -s build 
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend/:/frontend
+
+
